@@ -1,0 +1,154 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    height: auto;
+    }
+    
+    body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: rgb(20, 20, 19);
+    }
+    
+    #logo{
+        font-size: 15px;
+        
+    }
+    
+    #cabecalho{
+    height: 100px;
+    background-color: rgb(226, 44, 44);
+    margin: 0px auto;
+    text-align: center;
+
+    }
+    #h2{
+        text-align: left;
+    }
+    h2{
+        text-align: left;
+        margin-top: 10px;
+    }
+    #titulo{
+        margin-top: 0;
+        text-align: center;
+        background-color:white;
+        height: 100px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h5{
+      text-align: left;
+    }
+   
+    #menu-h ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(226, 44, 44);
+    
+    }
+    #menu-h ul li{
+    display: inline;
+    }
+    #menu-h ul li a{
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    }
+    #menu-h ul li a:hover{
+    background-color: white;
+    
+    }
+    
+    #eleicoes{
+    display: inline-block;
+    width: 600px;
+    height: 500px;
+    margin-top: 60px;
+    margin-left: 10px;
+    background-color:white;
+   
+    }
+    #bl{
+        display: inline-block;
+        width: 600px;
+        height: 460px;
+        margin-left: 30px;
+        background-color:white;
+        float: left;
+    }
+    #entrete{
+        display: inline-block;
+        width: 600px;
+        height: 460px;
+        margin-right: 20px;
+        background-color:white;
+        float: right;     
+    }
+    #campeonato{
+        display: inline-block;
+        width: 600px;
+        height: 460px;
+        margin-left: 30px;
+        background-color:white;
+        float: left;
+    }
+    #justin{
+        display: inline-block;
+        width: 600px;
+        height: 460px;
+        margin-right: 20px;
+        background-color:white;
+        float: right;
+    }
+    #bozoelula{
+        position: relative;
+        display: inline-block;  
+
+    }
+    #rock{
+      position: relative;
+      top: 0;
+      display: inline-block;      
+    }
+    
+    #justinshow{
+        position: relative;
+        top: 0;
+        display: inline-block;  
+    }
+    
+    #h1{
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: coral;
+    }
+    ol{
+    list-style-type: decimal;
+    font-size: 20px;
+    list-style-position: inside;
+    }
+    li{
+    color: coral;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    height: 48px;
+    
+    }
+    #rodape{
+    height: 100px;
+    background-color:rgb(216, 186, 204);
+    clear: both;
+    margin: 0 auto;
+    list-style-position: inside;
+    
+    }
+    
+    #link{
+        color: black;
+        font-size: 28px;
+        
+    }
